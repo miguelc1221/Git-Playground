@@ -1,3 +1,3 @@
-<h1>Git Playground<h1>
+Git Playground
 Respository for practicing git commands
 2015
